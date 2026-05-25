@@ -16,11 +16,23 @@ def main():
     embedding_dim = 286
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     
+    # Check if data files exist
+    if not os.path.exists("data/neurons.json") or not os.path.exists("data/connectome.json"):
+        print("❌ Error: Connectome data not found.")
+        print("Please run 'python setup_data.py' first to prepare the brain structure.")
+        return
+
     try:
         model = CapyElegansLLM(embedding_dim=embedding_dim, device=device)
         if os.path.exists("data/capy_awareness.pth"):
             print("Loading pre-aligned CapyAwareness weights...")
             model.load_state_dict(torch.load("data/capy_awareness.pth", map_location=device))
+        else:
+            print("⚠️ Warning: 'data/capy_awareness.pth' not found.")
+            print("The model is running with a 'Blank Soul' (random weights).")
+            print("To inject the Capybara spirit, please run 'python train.py' first.")
+            print("Continuing in 3 seconds...\n")
+            time.sleep(3)
     except Exception as e:
         print(f"Error initializing model: {e}")
         model = CapyElegansLLM(embedding_dim=64, device=device)

@@ -32,17 +32,27 @@ Since the latest graphics cards like the RTX 5060 Ti use the `sm_120` architectu
 pip install --pre torch torchvision --index-url https://download.pytorch.org/whl/nightly/cu128
 ```
 
-### 🛠️ How to Run
-Once ready, wake up the Capybara-worm with the following commands:
+### 🛠️ How to Run (First Time Setup)
 
-- **Training (Alignment)**: Injects the spirit of a Capybara into the brain.
-  ```bash
-  python train.py
-  ```
-- **Inference (Main)**: Talk with the Capybara.
-  ```bash
-  python main.py
-  ```
+Since the model weights (`.pth`) are too large for GitHub, you need to generate them locally:
+
+1. **Initialize the Brain Structure**:
+   ```bash
+   python setup_data.py
+   ```
+   This processes the `connectome.csv` and prepares the neural network structure.
+
+2. **Training (Alignment)**:
+   ```bash
+   python train.py
+   ```
+   This injects the spirit of a Capybara into the 302 neurons. (Expect this to take some time depending on your GPU).
+
+3. **Inference (Main)**:
+   ```bash
+   python main.py
+   ```
+   Start your zen-filled conversation with the Capybara-worm.
 
 ## ⚠️ Notes
 - When running, it consumes about **8GB** of GPU memory. (Quite a "Huge" appetite for just 302 neurons.)
