@@ -1,0 +1,1218 @@
+[
+    {
+        "name": "ADAL",
+        "type": "interneuron"
+    },
+    {
+        "name": "ADAR",
+        "type": "interneuron"
+    },
+    {
+        "name": "ADEL",
+        "type": "sensory"
+    },
+    {
+        "name": "ADER",
+        "type": "sensory"
+    },
+    {
+        "name": "ADFL",
+        "type": "sensory"
+    },
+    {
+        "name": "ADFR",
+        "type": "sensory"
+    },
+    {
+        "name": "ADLL",
+        "type": "sensory"
+    },
+    {
+        "name": "ADLR",
+        "type": "sensory"
+    },
+    {
+        "name": "AFDL",
+        "type": "sensory"
+    },
+    {
+        "name": "AFDR",
+        "type": "sensory"
+    },
+    {
+        "name": "AIAL",
+        "type": "interneuron"
+    },
+    {
+        "name": "AIAR",
+        "type": "interneuron"
+    },
+    {
+        "name": "AIBL",
+        "type": "interneuron"
+    },
+    {
+        "name": "AIBR",
+        "type": "interneuron"
+    },
+    {
+        "name": "AIML",
+        "type": "interneuron"
+    },
+    {
+        "name": "AIMR",
+        "type": "interneuron"
+    },
+    {
+        "name": "AINL",
+        "type": "interneuron"
+    },
+    {
+        "name": "AINR",
+        "type": "interneuron"
+    },
+    {
+        "name": "AIYL",
+        "type": "interneuron"
+    },
+    {
+        "name": "AIYR",
+        "type": "interneuron"
+    },
+    {
+        "name": "AIZL",
+        "type": "interneuron"
+    },
+    {
+        "name": "AIZR",
+        "type": "interneuron"
+    },
+    {
+        "name": "ALA",
+        "type": "interneuron"
+    },
+    {
+        "name": "ALML",
+        "type": "sensory"
+    },
+    {
+        "name": "ALMR",
+        "type": "sensory"
+    },
+    {
+        "name": "ALNL",
+        "type": "interneuron"
+    },
+    {
+        "name": "ALNR",
+        "type": "interneuron"
+    },
+    {
+        "name": "AQR",
+        "type": "sensory"
+    },
+    {
+        "name": "AS1",
+        "type": "motor"
+    },
+    {
+        "name": "AS10",
+        "type": "motor"
+    },
+    {
+        "name": "AS11",
+        "type": "motor"
+    },
+    {
+        "name": "AS2",
+        "type": "motor"
+    },
+    {
+        "name": "AS3",
+        "type": "motor"
+    },
+    {
+        "name": "AS4",
+        "type": "motor"
+    },
+    {
+        "name": "AS5",
+        "type": "motor"
+    },
+    {
+        "name": "AS6",
+        "type": "motor"
+    },
+    {
+        "name": "AS7",
+        "type": "motor"
+    },
+    {
+        "name": "AS8",
+        "type": "motor"
+    },
+    {
+        "name": "AS9",
+        "type": "motor"
+    },
+    {
+        "name": "ASEL",
+        "type": "sensory"
+    },
+    {
+        "name": "ASER",
+        "type": "sensory"
+    },
+    {
+        "name": "ASGL",
+        "type": "sensory"
+    },
+    {
+        "name": "ASGR",
+        "type": "sensory"
+    },
+    {
+        "name": "ASHL",
+        "type": "sensory"
+    },
+    {
+        "name": "ASHR",
+        "type": "sensory"
+    },
+    {
+        "name": "ASIL",
+        "type": "sensory"
+    },
+    {
+        "name": "ASIR",
+        "type": "sensory"
+    },
+    {
+        "name": "ASJL",
+        "type": "sensory"
+    },
+    {
+        "name": "ASJR",
+        "type": "sensory"
+    },
+    {
+        "name": "ASKL",
+        "type": "sensory"
+    },
+    {
+        "name": "ASKR",
+        "type": "sensory"
+    },
+    {
+        "name": "AUAL",
+        "type": "interneuron"
+    },
+    {
+        "name": "AUAR",
+        "type": "interneuron"
+    },
+    {
+        "name": "AVAL",
+        "type": "interneuron"
+    },
+    {
+        "name": "AVAR",
+        "type": "interneuron"
+    },
+    {
+        "name": "AVBL",
+        "type": "interneuron"
+    },
+    {
+        "name": "AVBR",
+        "type": "interneuron"
+    },
+    {
+        "name": "AVDL",
+        "type": "interneuron"
+    },
+    {
+        "name": "AVDR",
+        "type": "interneuron"
+    },
+    {
+        "name": "AVEL",
+        "type": "interneuron"
+    },
+    {
+        "name": "AVER",
+        "type": "interneuron"
+    },
+    {
+        "name": "AVFL",
+        "type": "interneuron"
+    },
+    {
+        "name": "AVFR",
+        "type": "interneuron"
+    },
+    {
+        "name": "AVG",
+        "type": "interneuron"
+    },
+    {
+        "name": "AVHL",
+        "type": "interneuron"
+    },
+    {
+        "name": "AVHR",
+        "type": "interneuron"
+    },
+    {
+        "name": "AVJL",
+        "type": "interneuron"
+    },
+    {
+        "name": "AVJR",
+        "type": "interneuron"
+    },
+    {
+        "name": "AVKL",
+        "type": "interneuron"
+    },
+    {
+        "name": "AVKR",
+        "type": "interneuron"
+    },
+    {
+        "name": "AVL",
+        "type": "interneuron"
+    },
+    {
+        "name": "AVM",
+        "type": "interneuron"
+    },
+    {
+        "name": "AWAL",
+        "type": "sensory"
+    },
+    {
+        "name": "AWAR",
+        "type": "sensory"
+    },
+    {
+        "name": "AWBL",
+        "type": "sensory"
+    },
+    {
+        "name": "AWBR",
+        "type": "sensory"
+    },
+    {
+        "name": "AWCL",
+        "type": "sensory"
+    },
+    {
+        "name": "AWCR",
+        "type": "sensory"
+    },
+    {
+        "name": "BAGL",
+        "type": "sensory"
+    },
+    {
+        "name": "BAGR",
+        "type": "sensory"
+    },
+    {
+        "name": "BDUL",
+        "type": "interneuron"
+    },
+    {
+        "name": "BDUR",
+        "type": "interneuron"
+    },
+    {
+        "name": "CANL",
+        "type": "interneuron"
+    },
+    {
+        "name": "CANR",
+        "type": "interneuron"
+    },
+    {
+        "name": "DA1",
+        "type": "motor"
+    },
+    {
+        "name": "DA2",
+        "type": "motor"
+    },
+    {
+        "name": "DA3",
+        "type": "motor"
+    },
+    {
+        "name": "DA4",
+        "type": "motor"
+    },
+    {
+        "name": "DA5",
+        "type": "motor"
+    },
+    {
+        "name": "DA6",
+        "type": "motor"
+    },
+    {
+        "name": "DA7",
+        "type": "motor"
+    },
+    {
+        "name": "DA8",
+        "type": "motor"
+    },
+    {
+        "name": "DA9",
+        "type": "motor"
+    },
+    {
+        "name": "DB1",
+        "type": "motor"
+    },
+    {
+        "name": "DB2",
+        "type": "motor"
+    },
+    {
+        "name": "DB3",
+        "type": "motor"
+    },
+    {
+        "name": "DB4",
+        "type": "motor"
+    },
+    {
+        "name": "DB5",
+        "type": "motor"
+    },
+    {
+        "name": "DB6",
+        "type": "motor"
+    },
+    {
+        "name": "DB7",
+        "type": "motor"
+    },
+    {
+        "name": "DD1",
+        "type": "motor"
+    },
+    {
+        "name": "DD2",
+        "type": "motor"
+    },
+    {
+        "name": "DD3",
+        "type": "motor"
+    },
+    {
+        "name": "DD4",
+        "type": "motor"
+    },
+    {
+        "name": "DD5",
+        "type": "motor"
+    },
+    {
+        "name": "DD6",
+        "type": "motor"
+    },
+    {
+        "name": "DVA",
+        "type": "interneuron"
+    },
+    {
+        "name": "DVB",
+        "type": "interneuron"
+    },
+    {
+        "name": "DVC",
+        "type": "interneuron"
+    },
+    {
+        "name": "FLPL",
+        "type": "sensory"
+    },
+    {
+        "name": "FLPR",
+        "type": "sensory"
+    },
+    {
+        "name": "HSAL",
+        "type": "interneuron"
+    },
+    {
+        "name": "HSAR",
+        "type": "interneuron"
+    },
+    {
+        "name": "I1L",
+        "type": "interneuron"
+    },
+    {
+        "name": "I1R",
+        "type": "interneuron"
+    },
+    {
+        "name": "I2L",
+        "type": "interneuron"
+    },
+    {
+        "name": "I2R",
+        "type": "interneuron"
+    },
+    {
+        "name": "I3",
+        "type": "interneuron"
+    },
+    {
+        "name": "I4",
+        "type": "interneuron"
+    },
+    {
+        "name": "I5",
+        "type": "interneuron"
+    },
+    {
+        "name": "I6",
+        "type": "interneuron"
+    },
+    {
+        "name": "IL1DL",
+        "type": "sensory"
+    },
+    {
+        "name": "IL1DR",
+        "type": "sensory"
+    },
+    {
+        "name": "IL1L",
+        "type": "sensory"
+    },
+    {
+        "name": "IL1R",
+        "type": "sensory"
+    },
+    {
+        "name": "IL1VL",
+        "type": "sensory"
+    },
+    {
+        "name": "IL1VR",
+        "type": "sensory"
+    },
+    {
+        "name": "IL2DL",
+        "type": "sensory"
+    },
+    {
+        "name": "IL2DR",
+        "type": "sensory"
+    },
+    {
+        "name": "IL2L",
+        "type": "sensory"
+    },
+    {
+        "name": "IL2R",
+        "type": "sensory"
+    },
+    {
+        "name": "IL2VL",
+        "type": "sensory"
+    },
+    {
+        "name": "IL2VR",
+        "type": "sensory"
+    },
+    {
+        "name": "LUAL",
+        "type": "interneuron"
+    },
+    {
+        "name": "LUAR",
+        "type": "interneuron"
+    },
+    {
+        "name": "M1",
+        "type": "motor"
+    },
+    {
+        "name": "M2L",
+        "type": "motor"
+    },
+    {
+        "name": "M2R",
+        "type": "motor"
+    },
+    {
+        "name": "M3L",
+        "type": "motor"
+    },
+    {
+        "name": "M3R",
+        "type": "motor"
+    },
+    {
+        "name": "M4",
+        "type": "motor"
+    },
+    {
+        "name": "M5",
+        "type": "motor"
+    },
+    {
+        "name": "MCL",
+        "type": "interneuron"
+    },
+    {
+        "name": "MCR",
+        "type": "interneuron"
+    },
+    {
+        "name": "MI",
+        "type": "interneuron"
+    },
+    {
+        "name": "NSML",
+        "type": "interneuron"
+    },
+    {
+        "name": "NSMR",
+        "type": "interneuron"
+    },
+    {
+        "name": "OLLL",
+        "type": "sensory"
+    },
+    {
+        "name": "OLLR",
+        "type": "sensory"
+    },
+    {
+        "name": "OLQDL",
+        "type": "sensory"
+    },
+    {
+        "name": "OLQDR",
+        "type": "sensory"
+    },
+    {
+        "name": "OLQVL",
+        "type": "sensory"
+    },
+    {
+        "name": "OLQVR",
+        "type": "sensory"
+    },
+    {
+        "name": "PDA",
+        "type": "sensory"
+    },
+    {
+        "name": "PDB",
+        "type": "interneuron"
+    },
+    {
+        "name": "PDC",
+        "type": "interneuron"
+    },
+    {
+        "name": "PDEL",
+        "type": "sensory"
+    },
+    {
+        "name": "PDER",
+        "type": "sensory"
+    },
+    {
+        "name": "PHAL",
+        "type": "sensory"
+    },
+    {
+        "name": "PHAR",
+        "type": "sensory"
+    },
+    {
+        "name": "PHBL",
+        "type": "sensory"
+    },
+    {
+        "name": "PHBR",
+        "type": "sensory"
+    },
+    {
+        "name": "PHCL",
+        "type": "interneuron"
+    },
+    {
+        "name": "PHCR",
+        "type": "interneuron"
+    },
+    {
+        "name": "PHDL",
+        "type": "sensory"
+    },
+    {
+        "name": "PHDR",
+        "type": "sensory"
+    },
+    {
+        "name": "PLML",
+        "type": "sensory"
+    },
+    {
+        "name": "PLMR",
+        "type": "sensory"
+    },
+    {
+        "name": "PLNL",
+        "type": "interneuron"
+    },
+    {
+        "name": "PLNR",
+        "type": "interneuron"
+    },
+    {
+        "name": "PQR",
+        "type": "sensory"
+    },
+    {
+        "name": "PVCL",
+        "type": "interneuron"
+    },
+    {
+        "name": "PVCR",
+        "type": "interneuron"
+    },
+    {
+        "name": "PVDL",
+        "type": "sensory"
+    },
+    {
+        "name": "PVDR",
+        "type": "sensory"
+    },
+    {
+        "name": "PVEL",
+        "type": "interneuron"
+    },
+    {
+        "name": "PVER",
+        "type": "interneuron"
+    },
+    {
+        "name": "PVNL",
+        "type": "interneuron"
+    },
+    {
+        "name": "PVNR",
+        "type": "interneuron"
+    },
+    {
+        "name": "PVPL",
+        "type": "interneuron"
+    },
+    {
+        "name": "PVPR",
+        "type": "interneuron"
+    },
+    {
+        "name": "PVQL",
+        "type": "interneuron"
+    },
+    {
+        "name": "PVQR",
+        "type": "interneuron"
+    },
+    {
+        "name": "PVR",
+        "type": "interneuron"
+    },
+    {
+        "name": "PVT",
+        "type": "interneuron"
+    },
+    {
+        "name": "PVWL",
+        "type": "interneuron"
+    },
+    {
+        "name": "PVWR",
+        "type": "interneuron"
+    },
+    {
+        "name": "RIAL",
+        "type": "interneuron"
+    },
+    {
+        "name": "RIAR",
+        "type": "interneuron"
+    },
+    {
+        "name": "RIBL",
+        "type": "interneuron"
+    },
+    {
+        "name": "RIBR",
+        "type": "interneuron"
+    },
+    {
+        "name": "RICL",
+        "type": "interneuron"
+    },
+    {
+        "name": "RICR",
+        "type": "interneuron"
+    },
+    {
+        "name": "RID",
+        "type": "interneuron"
+    },
+    {
+        "name": "RIFL",
+        "type": "interneuron"
+    },
+    {
+        "name": "RIFR",
+        "type": "interneuron"
+    },
+    {
+        "name": "RIGL",
+        "type": "interneuron"
+    },
+    {
+        "name": "RIGR",
+        "type": "interneuron"
+    },
+    {
+        "name": "RIH",
+        "type": "interneuron"
+    },
+    {
+        "name": "RIML",
+        "type": "interneuron"
+    },
+    {
+        "name": "RIMR",
+        "type": "interneuron"
+    },
+    {
+        "name": "RIPL",
+        "type": "interneuron"
+    },
+    {
+        "name": "RIPR",
+        "type": "interneuron"
+    },
+    {
+        "name": "RIR",
+        "type": "interneuron"
+    },
+    {
+        "name": "RIS",
+        "type": "interneuron"
+    },
+    {
+        "name": "RIVL",
+        "type": "interneuron"
+    },
+    {
+        "name": "RIVR",
+        "type": "interneuron"
+    },
+    {
+        "name": "RMDDL",
+        "type": "interneuron"
+    },
+    {
+        "name": "RMDDR",
+        "type": "interneuron"
+    },
+    {
+        "name": "RMDL",
+        "type": "interneuron"
+    },
+    {
+        "name": "RMDR",
+        "type": "interneuron"
+    },
+    {
+        "name": "RMDVL",
+        "type": "interneuron"
+    },
+    {
+        "name": "RMDVR",
+        "type": "interneuron"
+    },
+    {
+        "name": "RMED",
+        "type": "motor"
+    },
+    {
+        "name": "RMEL",
+        "type": "motor"
+    },
+    {
+        "name": "RMER",
+        "type": "motor"
+    },
+    {
+        "name": "RMEV",
+        "type": "motor"
+    },
+    {
+        "name": "RMFL",
+        "type": "interneuron"
+    },
+    {
+        "name": "RMFR",
+        "type": "interneuron"
+    },
+    {
+        "name": "RMGL",
+        "type": "interneuron"
+    },
+    {
+        "name": "RMGR",
+        "type": "interneuron"
+    },
+    {
+        "name": "RMHL",
+        "type": "interneuron"
+    },
+    {
+        "name": "RMHR",
+        "type": "interneuron"
+    },
+    {
+        "name": "SAADL",
+        "type": "motor"
+    },
+    {
+        "name": "SAADR",
+        "type": "motor"
+    },
+    {
+        "name": "SAAVL",
+        "type": "motor"
+    },
+    {
+        "name": "SAAVR",
+        "type": "motor"
+    },
+    {
+        "name": "SABD",
+        "type": "motor"
+    },
+    {
+        "name": "SABVL",
+        "type": "motor"
+    },
+    {
+        "name": "SABVR",
+        "type": "motor"
+    },
+    {
+        "name": "SDQL",
+        "type": "sensory"
+    },
+    {
+        "name": "SDQR",
+        "type": "sensory"
+    },
+    {
+        "name": "SIADL",
+        "type": "interneuron"
+    },
+    {
+        "name": "SIADR",
+        "type": "interneuron"
+    },
+    {
+        "name": "SIAVL",
+        "type": "interneuron"
+    },
+    {
+        "name": "SIAVR",
+        "type": "interneuron"
+    },
+    {
+        "name": "SIBDL",
+        "type": "interneuron"
+    },
+    {
+        "name": "SIBDR",
+        "type": "interneuron"
+    },
+    {
+        "name": "SIBVL",
+        "type": "interneuron"
+    },
+    {
+        "name": "SIBVR",
+        "type": "interneuron"
+    },
+    {
+        "name": "SMBDL",
+        "type": "motor"
+    },
+    {
+        "name": "SMBDR",
+        "type": "motor"
+    },
+    {
+        "name": "SMBVL",
+        "type": "motor"
+    },
+    {
+        "name": "SMBVR",
+        "type": "motor"
+    },
+    {
+        "name": "SMDDL",
+        "type": "motor"
+    },
+    {
+        "name": "SMDDR",
+        "type": "motor"
+    },
+    {
+        "name": "SMDVL",
+        "type": "motor"
+    },
+    {
+        "name": "SMDVR",
+        "type": "motor"
+    },
+    {
+        "name": "URADL",
+        "type": "motor"
+    },
+    {
+        "name": "URADR",
+        "type": "motor"
+    },
+    {
+        "name": "URAVL",
+        "type": "motor"
+    },
+    {
+        "name": "URAVR",
+        "type": "motor"
+    },
+    {
+        "name": "URBL",
+        "type": "motor"
+    },
+    {
+        "name": "URBR",
+        "type": "motor"
+    },
+    {
+        "name": "URDL",
+        "type": "interneuron"
+    },
+    {
+        "name": "URDR",
+        "type": "interneuron"
+    },
+    {
+        "name": "URXL",
+        "type": "sensory"
+    },
+    {
+        "name": "URXR",
+        "type": "sensory"
+    },
+    {
+        "name": "URYDL",
+        "type": "sensory"
+    },
+    {
+        "name": "URYDR",
+        "type": "sensory"
+    },
+    {
+        "name": "URYVL",
+        "type": "sensory"
+    },
+    {
+        "name": "URYVR",
+        "type": "sensory"
+    },
+    {
+        "name": "VA1",
+        "type": "motor"
+    },
+    {
+        "name": "VA10",
+        "type": "motor"
+    },
+    {
+        "name": "VA11",
+        "type": "motor"
+    },
+    {
+        "name": "VA12",
+        "type": "motor"
+    },
+    {
+        "name": "VA2",
+        "type": "motor"
+    },
+    {
+        "name": "VA3",
+        "type": "motor"
+    },
+    {
+        "name": "VA4",
+        "type": "motor"
+    },
+    {
+        "name": "VA5",
+        "type": "motor"
+    },
+    {
+        "name": "VA6",
+        "type": "motor"
+    },
+    {
+        "name": "VA7",
+        "type": "motor"
+    },
+    {
+        "name": "VA8",
+        "type": "motor"
+    },
+    {
+        "name": "VA9",
+        "type": "motor"
+    },
+    {
+        "name": "VB1",
+        "type": "motor"
+    },
+    {
+        "name": "VB10",
+        "type": "motor"
+    },
+    {
+        "name": "VB11",
+        "type": "motor"
+    },
+    {
+        "name": "VB2",
+        "type": "motor"
+    },
+    {
+        "name": "VB3",
+        "type": "motor"
+    },
+    {
+        "name": "VB4",
+        "type": "motor"
+    },
+    {
+        "name": "VB5",
+        "type": "motor"
+    },
+    {
+        "name": "VB6",
+        "type": "motor"
+    },
+    {
+        "name": "VB7",
+        "type": "motor"
+    },
+    {
+        "name": "VB8",
+        "type": "motor"
+    },
+    {
+        "name": "VB9",
+        "type": "motor"
+    },
+    {
+        "name": "VC1",
+        "type": "motor"
+    },
+    {
+        "name": "VC2",
+        "type": "motor"
+    },
+    {
+        "name": "VC3",
+        "type": "motor"
+    },
+    {
+        "name": "VC4",
+        "type": "motor"
+    },
+    {
+        "name": "VC5",
+        "type": "motor"
+    },
+    {
+        "name": "VC6",
+        "type": "motor"
+    },
+    {
+        "name": "VD1",
+        "type": "motor"
+    },
+    {
+        "name": "VD10",
+        "type": "motor"
+    },
+    {
+        "name": "VD11",
+        "type": "motor"
+    },
+    {
+        "name": "VD12",
+        "type": "motor"
+    },
+    {
+        "name": "VD13",
+        "type": "motor"
+    },
+    {
+        "name": "VD2",
+        "type": "motor"
+    },
+    {
+        "name": "VD3",
+        "type": "motor"
+    },
+    {
+        "name": "VD4",
+        "type": "motor"
+    },
+    {
+        "name": "VD5",
+        "type": "motor"
+    },
+    {
+        "name": "VD6",
+        "type": "motor"
+    },
+    {
+        "name": "VD7",
+        "type": "motor"
+    },
+    {
+        "name": "VD8",
+        "type": "motor"
+    },
+    {
+        "name": "VD9",
+        "type": "motor"
+    }
+]
