@@ -3,16 +3,17 @@ import torch.nn as nn
 import string
 
 class CapyGenerativeDecoder(nn.Module):
-    def __init__(self, motor_dim, embedding_dim=256):
+    def __init__(self, input_dim, embedding_dim=256):
         super().__init__()
-        # Vocabulary: lowercase letters + space + basic punctuation
-        self.chars = " " + string.ascii_lowercase + ".,!?"
+        # Vocabulary: lowercase letters + space + common punctuation
+        self.chars = " " + string.ascii_lowercase + ".,!?'\"-()[]"
         self.char_to_idx = {c: i for i, c in enumerate(self.chars)}
+
         self.idx_to_char = {i: c for i, c in enumerate(self.chars)}
         self.vocab_size = len(self.chars)
         
         self.char_embedding = nn.Embedding(self.vocab_size, embedding_dim)
-        self.context_projection = nn.Linear(motor_dim, embedding_dim)
+        self.context_projection = nn.Linear(input_dim, embedding_dim)
         self.gru = nn.GRU(embedding_dim, embedding_dim, num_layers=2, batch_first=True)
         self.out = nn.Linear(embedding_dim, self.vocab_size)
         
