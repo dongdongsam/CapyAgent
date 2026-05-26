@@ -4,6 +4,21 @@ The world's first AI based on the "C. elegans with a Capybara's soul", simulated
 
 > **Warning**: This project is the result of a fusion between biological romance and technical bravado. While 302 neurons might not be enough to discuss the truths of the universe, it certainly knows how to space out like a true Capybara.
 
+
+> ## 🧐 Why CapyAgent? (Comparison)
+
+Why use trillions of parameters when you can achieve total inner peace with just 302?
+
+| Feature | **Standard LLMs (GPT-4/Claude)** | **CapyAgent (The Zen Master)** |
+| :--- | :--- | :--- |
+| **Brain Size** | ~1.76 Trillion Parameters | **Exactly 302 Neurons** (C. elegans) |
+| **Core Philosophy** | World Domination / Efficiency | **Warm Bath / Sweet Grass** |
+| **Compute Strategy** | Maximizing Throughput | **100% Waste of 8GB VRAM** |
+| **Logic Gate** | Complex Transformer Attention | **Deep Connectome Resonance** |
+| **Response Style** | Helpful, Concise, Ethical | **Vague, Muddy, Existential** |
+| **Stock Advice** | "Financial risks vary..." | **"Warm bath . . . . ."** (Absolute HODL) |
+| **Vibe** | Corporate Robot | **Capybara with a Bug's Soul** |
+
 ## 🧬 Virtual Biological Architecture
 
 CapyElegans is designed based on the actual brain map of the biological organism, **C. elegans**.
