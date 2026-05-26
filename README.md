@@ -1,4 +1,4 @@
-# 🌿 CapyElegans: The Ultimate Zen Artificial Lifeform
+# 🌿 CapyAgent: The Ultimate Zen Artificial Lifeform
 
 The world's first AI based on the "C. elegans with a Capybara's soul", simulated in real-time on an GPU.
 
